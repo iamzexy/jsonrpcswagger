@@ -57,3 +57,14 @@ Custom Swagger-like api for Spring boot applications with json-rpc.
     }
 }
 ```
+
+# Maven Dependency
+
+```
+<dependency>
+    <groupId>io.github.iamzexy</groupId>
+    <artifactId>jsonrpcswagger</artifactId>
+    <version>1.0.0</version>
+</dependency>
+
+```
